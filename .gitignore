@@ -19,7 +19,7 @@
 project.xcworkspace/
 xcuserdata/
 
-# ignore generated directories and compiled output
+# ignore generated directories and compiled output 
 bin
 out
 target
